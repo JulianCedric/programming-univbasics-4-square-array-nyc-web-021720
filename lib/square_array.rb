@@ -4,5 +4,5 @@ def square_array(numbers)
   while counter < 3
   return (numbers[counter])**(numbers[counter])
   counter += 1 
-end
+  end
 end 
